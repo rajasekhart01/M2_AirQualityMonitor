@@ -53,9 +53,9 @@ wires used to connect components
   
 | ID | Description | Status |
 |----|-------------|--------|
-| HLR01 |Taking Quantity     | Implemented |
-| HLR02 | Calculations       | Implemented |
-| HLR03 | Bill Generation    | Implemented |
+| HLR01 |detecting gas     | Implemented |
+| HLR02 | detecting gas level    | Implemented |
+| HLR03 | information to lcd and leds | Implemented |
 <br>
 <br>
 <br>
@@ -65,7 +65,6 @@ wires used to connect components
  
 | ID | Description | Status |
 |----|-------------|--------|
-| LLR01 |Tax Calculation            | Implemented |
-| LLR02 | Date Entry                | Implemented |
-| LLR03 | Name of Admin             | Implemented |
-| LLR04 | Name of Customer          | Implemented |
+| LLR01 | different colour leds          | Implemented |
+| LLR02 |  detecting gas level      | Implemented |
+
