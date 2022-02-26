@@ -43,3 +43,29 @@ A light-emitting diode (LED) is a semiconductor light source that emits light wh
 ### Wires
 
 wires used to connect components
+
+
+<br>
+<br>
+<br>
+
+## High Level Requirements
+  
+| ID | Description | Status |
+|----|-------------|--------|
+| HLR01 |Taking Quantity     | Implemented |
+| HLR02 | Calculations       | Implemented |
+| HLR03 | Bill Generation    | Implemented |
+<br>
+<br>
+<br>
+<br>
+
+## Low Level Requirements
+ 
+| ID | Description | Status |
+|----|-------------|--------|
+| LLR01 |Tax Calculation            | Implemented |
+| LLR02 | Date Entry                | Implemented |
+| LLR03 | Name of Admin             | Implemented |
+| LLR04 | Name of Customer          | Implemented |
