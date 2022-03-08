@@ -62,4 +62,4 @@ The ultrasonic sensor emits a high-frequency sound pulse and calculates the dist
 ### Where:
 Measuring liquid level, checking proximity and even more popularly in automobiles to assist in self-parking or anti-collision systems.
 ### How:
-This project, we have used the HC-SR04 Ultrasonic Sensor with ATMEGA328 to determine the distance of an obstacle from the sensor. The basic principle of ultrasonic distance measurement is based on ECHO.
+This project, we have used the HC-SR04 Ultrasonic Sensor with ATMEGA328 to determine the distance of an obstacle from the sensor. The basic principle of ultrasonic distance measurement is based on ECHO 
