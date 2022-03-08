@@ -1,4 +1,4 @@
-# M2_AirQualityMonitor
+# M2_DistanceMeasurementDevice
 <br>
 
 ## Structural Diagram
