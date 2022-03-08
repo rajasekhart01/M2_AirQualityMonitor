@@ -4,9 +4,9 @@ Atmega 328 micro controller is combined with ultra sonic sensor to detect the di
 
 <br>
 
-CI Check | Git Inspector
------- | ------
-[![CI](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/main.yml/badge.svg)](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/main.yml) | [![Git Inspector](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/git-inspector.yml)
+CI Check | Git Inspector | Manual Workflow
+------ | ------ | ------
+[![CI](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/main.yml/badge.svg)](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/main.yml) | [![Git Inspector](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/git-inspector.yml) | [![Manual workflow](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/manual.yml/badge.svg)](https://github.com/rajasekhart01/M2_AirQualityMonitor/actions/workflows/manual.yml)
 
 <a href="https://app.codiga.io/public/user/github/rajasekhart01">
    <img src="https://api.codiga.io/public/badge/user/github/rajasekhart01?style=light" alt="codiga badge" />
