@@ -2,10 +2,32 @@
 #<TAB>commands
 
 
-Build : main.c 
-	gcc main.c -o main.exe
-run: 
-	./main.exe
-	
-clean:
-	rm -rf *.o *.out *.i *.s
+	PROJ_NAME = Project
+
+BUILD_DIR = Build
+
+# All Source code files
+SRC = main.c\
+
+
+# All header file paths
+INC = -I inc
+
+# Find out the OS and configure the variables accordingly
+ifdef OS	# All configurations for Windwos OS
+# Correct the path based on OS
+   FixPath = $(subst /,\,$1)
+# Name of the compiler used
+   CC = avr-gcc.exe
+# Name of the elf to hex file converter used
+   AVR_OBJ_CPY = avr-objcopy.exe
+else #All configurations for Linux OS
+   ifeq ($(shell uname), Linux)
+# Correct the path based on OS
+      FixPath = $1				
+# Name of the compiler used
+	  CC = avr-gcc
+# Name of the elf to hex file converter used
+	  AVR_OBJ_CPY = avr-objcopy 
+   endif
+endif
