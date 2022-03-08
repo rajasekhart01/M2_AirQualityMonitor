@@ -2,6 +2,7 @@
 
 Atmega 328 micro controller is combined with ultra sonic sensor to detect the distance been travelled by the object. where I have inserted the lcd display acts as digital actuator and tells us the measurement which was captured by sensor and processed by AU
 
+**Check the main branch for workflows**
 <br>
 
 CI Check | Git Inspector | Manual Workflow
@@ -17,3 +18,17 @@ CI Check | Git Inspector | Manual Workflow
 ![m211](https://user-images.githubusercontent.com/98815258/157288464-4d7b7b50-98ba-4fbe-a2c8-5d3edd54a2f0.svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9fcfc85538a64f128e9aff1183ce8e83)](https://www.codacy.com/gh/rajasekhart01/M2_AirQualityMonitor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rajasekhart01/M2_AirQualityMonitor&amp;utm_campaign=Badge_Grade)
+
+
+<br>
+
+## Folder Structure
+Folder                   | Description
+-------------------------|--------------------------
+`1_Requiremets`          | Intro, Features, detailed requirments info, 4W's 1H.
+`2_Design`         | Flowchart & behavioural diagram
+`3_implementation`      | All code and documentation
+`4_Test Plan and Output` | Output with test plans and procedures
+`5_Report`               | Summarized Report
+'6_Images'               | Simulation related
+'Others' | Reference
