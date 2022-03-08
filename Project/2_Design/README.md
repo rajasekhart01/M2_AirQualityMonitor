@@ -12,14 +12,13 @@
 ![WhatsApp Image 2022-03-08 at 8 58 15 PM](https://user-images.githubusercontent.com/98815258/157269926-ed1c286f-38a7-4edb-a665-b6ba87e6830f.jpeg)
 <br>
 <br>
-<br>
 ## Block diagram
-![Blank diagram](https://user-images.githubusercontent.com/98815258/157269250-60aafccc-12b1-4946-918b-7efa22c4e67f.png)
+![Blank diagram (2)](https://user-images.githubusercontent.com/98815258/157289727-6106c96c-d44a-463f-80d5-420c9da98fa3.png)
 
 <br>
 
 ## Flow Chart
 
-![Screenshot (245)](https://user-images.githubusercontent.com/98815258/157274441-5d8703b8-106c-479b-be77-db666ac3a474.png)
+![WhatsApp Image 2022-03-08 at 11 06 49 PM](https://user-images.githubusercontent.com/98815258/157294004-943602aa-61fb-4fec-b4d7-053b980b38d4.jpeg)
 
 
