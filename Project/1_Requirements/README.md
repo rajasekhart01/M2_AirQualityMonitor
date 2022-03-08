@@ -42,7 +42,7 @@ wires used to connect components
 |----|-------------|--------|
 | HLR01 | Measuring the ditsance  Moved  | Implemented |
 | HLR02 | detecting obstacles    | Implemented |
-| HLR03 | displaying the Information  | Implemented |
+| HLR03 | displaying the Information on lcd  | Implemented |
 <br>
 
 ## Low Level Requirements
