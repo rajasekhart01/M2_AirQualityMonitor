@@ -19,3 +19,5 @@
 | LLR02 |  Displaying real-time    | Implemented |
 
 
+## Output
+![output final](https://user-images.githubusercontent.com/98815258/157300848-d8fb4209-b3cc-4081-9e7d-cf8baf50182d.jpeg)
